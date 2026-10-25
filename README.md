@@ -1,5 +1,9 @@
 # 南北 AI 店铺｜AI 充值、代充与会员服务
 
+**购买咨询 / 售后联系**  
+微信：`duanyp0809`（添加时请备注“GitHub”）  
+店铺：[https://nanbei-ai.store/](https://nanbei-ai.store/)
+
 **价格实在，选择齐全，质保规则看得见。**
 
 提供 ChatGPT、Claude、Gemini、Grok 等 AI 充值、代充与会员服务。从日常写作、编程、资料检索，到设计制作与办公娱乐，常用 AI 和会员服务在这里集中选。原号充值、代开通、成品账号、家庭组席位，按自己的预算与使用习惯挑选。
@@ -7,8 +11,6 @@
 ## [进入南北 AI 店铺 → nanbei-ai.store](https://nanbei-ai.store/)
 
 [查看全部商品](https://nanbei-ai.store/) · [订单查询](https://nanbei-ai.store/user/index/query) · [帮助中心](https://nanbei-ai.store/user/help/index)
-
-**购买咨询 / 售后联系：微信 `duanyp0809`，添加时请备注“GitHub”。**
 
 ![南北 AI 店铺首页](screenshots/01-home.png)
 
