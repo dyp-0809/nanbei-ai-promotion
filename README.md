@@ -8,6 +8,8 @@
 
 [查看全部商品](https://nanbei-ai.store/) · [订单查询](https://nanbei-ai.store/user/index/query) · [帮助中心](https://nanbei-ai.store/user/help/index)
 
+**购买咨询 / 售后联系：微信 `duanyp0809`，添加时请备注“GitHub”。**
+
 ![南北 AI 店铺首页](screenshots/01-home.png)
 
 ## 为什么选择南北 AI 店铺
@@ -160,6 +162,10 @@ Claude 充值限制较多：未到期会员、逾期账单及部分账号状态�
 1. 打开商品详情，确认是原号充值、代开通、成品账号还是共享席位。
 2. 核对价格、有效期、账号条件、库存和质保范围；可预订商品需先确认等待时间。
 3. 按页面流程购买，自动发货商品查看订单内容，人工开通商品联系在线客服。
+
+## 购买咨询 / 售后联系
+
+微信：`duanyp0809`（添加时请备注“GitHub”）
 
 **[前往南北 AI 店铺，查看实时价格与全部商品 →](https://nanbei-ai.store/)**
 
