@@ -2,7 +2,7 @@
 
 **购买咨询 / 售后联系**  
 微信：`duanyp0809`（添加时请备注“GitHub”）  
-店铺：[https://nanbei-ai.store/](https://nanbei-ai.store/)
+主站：[nanbei-ai.store](https://nanbei-ai.store/) · 副站：[nanbei.ka8.ai](https://nanbei.ka8.ai/)
 
 **价格实在，选择齐全，质保规则看得见。**
 
@@ -13,6 +13,24 @@
 [查看全部商品](https://nanbei-ai.store/) · [订单查询](https://nanbei-ai.store/user/index/query) · [帮助中心](https://nanbei-ai.store/user/help/index)
 
 ![南北 AI 店铺首页](screenshots/01-home.png)
+
+## 南北 AI 店铺副站
+
+[进入副站](https://nanbei.ka8.ai/) · [查询副站订单](https://nanbei.ka8.ai/me/orders) · [查看副站使用教程](https://nanbei.ka8.ai/blog)
+
+副站是南北 AI 店铺的另一个入口。首页可以按商品名称搜索，也可以按 ChatGPT、Codex 等分类浏览。两站的商品和库存可能不同，选购时请查看对应商品的价格、适用地区、交付方式和售后说明。
+
+在副站下单后，请从副站的「查订单」入口查看。激活和使用步骤可从「使用教程」进入，也可以在商品详情里查阅。
+
+**副站首页与搜索入口**
+
+![南北 AI 店铺副站首页与商品搜索入口](screenshots/backup-store-home.png)
+
+**副站商品分类**
+
+![南北 AI 店铺副站的商品分类标签](screenshots/backup-store-catalog.png)
+
+*副站截图摄于 2026 年 11 月 4 日。商品数量与库存请以副站实时页面为准。*
 
 ## 为什么选择南北 AI 店铺
 
@@ -171,4 +189,4 @@ Claude 充值限制较多：未到期会员、逾期账单及部分账号状态�
 
 **[前往南北 AI 店铺，查看实时价格与全部商品 →](https://nanbei-ai.store/)**
 
-价格与图片记录于 2026 年 10 月 25 日。图片为网站原页实拍；商品功能及服务按详情执行，店铺名称不代表品牌官方授权关系。
+主站价格与截图记录于 2026 年 10 月 25 日。商品功能及服务以详情为准。店铺名称不代表品牌官方授权关系。
