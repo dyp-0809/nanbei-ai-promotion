@@ -28,7 +28,7 @@
 
 ![副站首页，展示商品搜索入口](screenshots/backup-home-2026-11-18.png)
 
-![副站商品分类及各分类的上架数量](screenshots/backup-categories-2026-11-18.png)
+![副站全部商品列表，展示商品名称、标价、交付方式和库存](screenshots/backup-products-2026-11-18.png)
 
 ## 部分商品列表价
 
